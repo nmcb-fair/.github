@@ -1,7 +1,5 @@
 # Welcome to the Netherlands ME/CFS Cohort and Biobank (NMCB) Consortium
 
-![NMCB-FAIR Banner](https://avatars.githubusercontent.com/u/161479607?s=200&v=4)  <!-- Add a URL to your banner image -->
-
 ## About Us
 
 The Netherlands ME/CFS Cohort and Biobank (NMCB) Consortium is dedicated to advancing research on Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS) through the FAIR principles—Findability, Accessibility, Interoperability, and Reusability. Our mission is to harmonize data collection, promote transparency, and facilitate collaboration across the scientific community.
